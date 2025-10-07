@@ -1,6 +1,6 @@
 # 🌐 ENE4019 - Computer Network Projects
 
-**한양대학교 전자공학과 컴퓨터네트워크 과목 프로젝트 모음**
+**한양대학교 컴퓨터소프트웨어학부 컴퓨터네트워크 과목 프로젝트 모음**
 
 [![Java](https://img.shields.io/badge/Java-Programming-orange.svg)](https://www.java.com)
 [![Network](https://img.shields.io/badge/Network-Socket%20Programming-blue.svg)](https://en.wikipedia.org/wiki/Network_socket)
